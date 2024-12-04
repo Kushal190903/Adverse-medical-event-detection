@@ -7,5 +7,5 @@ reactmap=>pickle file containing mapping of adverse reactions(output) to their m
 
 possiblevalues.ipynb=>save the possible values of drug names and indication names in JSON format (to be used by the React frontend for allowing searchable dropdown option for selecting the drug and indication names)
 
-**prediction.ipynb=>Flask backend for incorporating the model to the web site
+**prediction.ipynb=>Flask backend for incorporating the model in the web site
 
